@@ -1,3 +1,5 @@
+pub mod day14_parabolic_reflector_dish;
+
 use std::env;
 use std::fs;
 
